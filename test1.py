@@ -7,7 +7,7 @@ objeto = Principal;
 class TestSum(unittest.TestCase):
 
     def test_sum(self):
-        self.assertEqual(objeto.suma(14, 12), 29, "Should be 26")
+        self.assertEqual(objeto.suma(14, 12), 26, "Should be 26")
 
 
 if __name__ == '__main__':
