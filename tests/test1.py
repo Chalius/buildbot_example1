@@ -1,5 +1,10 @@
-from archivo1 import *
+# import archivo1
 import unittest
+
+import sys
+
+sys.path.append("/home/chalius/connecttix/proyectsPycharm/pruebaTesting/ejem1")
+from archivo1 import Principal
 
 objeto = Principal();
 
