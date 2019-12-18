@@ -1,7 +1,7 @@
 from archivo1 import Principal
 import unittest
 
-objeto = Principal;
+objeto = Principal();
 
 
 class TestSum(unittest.TestCase):
