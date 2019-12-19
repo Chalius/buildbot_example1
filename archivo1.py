@@ -4,7 +4,7 @@ class Principal:
 
     def suma(self, num1, num2):
         solucion = num1 + num2
-        return (solucion + num2)
+        return (solucion)
 
 # git push https://
 #
