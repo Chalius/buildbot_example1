@@ -1,7 +1,7 @@
 class Principal:
 
     def suma(self, num1, num2):
-        print("hola mundo")
+        print("bienvenido")
         return (num1 + num2)
 
 
