@@ -3,10 +3,7 @@
 class Principal:
 
     def suma(self, num1, num2):
-        print("probando try")
-        print("probando try2")
-        # qwer
-        num3 = num1 + num2 / 2
+        print("trytry")
         return (num1 + num2)
 
 # git push https://github.com/Chalius/buildbot_example1.git deploy --force
