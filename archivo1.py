@@ -6,4 +6,4 @@ class Principal:
 
     def suma(self, num1, num2):
         print("wait y quiet juntos funcionaron perfectamente!")
-        return (num1 + num2)
+        return (num1 + num2 + 2)
