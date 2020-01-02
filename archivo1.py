@@ -6,5 +6,4 @@ class Principal:
         print("feliz año nuevo5")
         print("probando schedulers dependent")
         print("ya estamos 2020")
-        print("probando method fresh")
         return (num1 + num2)
